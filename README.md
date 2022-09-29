@@ -1,12 +1,15 @@
 # [Taxi Service](https://desolate-fortress-31778.herokuapp.com/login)
 
-This is a simple project made to show my skills in Java, JDBC, WEB, OOP. You can use basic CRUD operations.
-After crete account you have next features:
+This is web application with backend and frontend parts that presents 
+the work of a taxi service. 
+The following functionality is implemented in it:
 - Add car, driver or manufacturer
 - Display car, driver or manufacturer
 - Delete car, driver or manufacturer
 - Add driver to car
 - Display all drivers for current car
+
+You can test these features as soon as you create "driver's" account (Click "Sign Up" button)
 
 ## Implementation details and technologies
 Project based on 3-layer architecture:
@@ -29,3 +32,8 @@ Project based on 3-layer architecture:
 - Create the required tables for your database using file resources/init_db.sql
 - Add your db configurations in util/ConnectionUtil
 - Run project using TomCat 9.0.5
+
+# Heroku
+
+This project is also deployed to Heroku. You can click it via this link:
+[Heroku Link](https://desolate-fortress-31778.herokuapp.com/login)
