@@ -1,4 +1,4 @@
-# [Taxi Service](https://dibrov-taxi-app.herokuapp.com/login)
+# [Taxi App](https://dibrov-taxi-app.herokuapp.com/login)
 
 This is web application with backend and frontend parts that presents 
 the work of a taxi service. 
