@@ -6,10 +6,10 @@ import java.sql.SQLException;
 import java.util.Properties;
 
 public class ConnectionUtil {
-    private static final String URL = "YOUR:DATABASE:URL";
-    private static final String USERNAME = "YOUR:DATABASE:USERNAME";
-    private static final String PASSWORD = "YOUR:DATABASE:PASSWORD";
-    private static final String JDBC_DRIVER = "YOUR:DATABASE:DRIVER";
+    private static final String URL = System.getenv("URL");
+    private static final String USERNAME = System.getenv("USERNAME");
+    private static final String PASSWORD = System.getenv("PASSWORD");
+    private static final String JDBC_DRIVER = System.getenv("JDBC_DRIVER");
 
     static {
         try {
