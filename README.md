@@ -1,4 +1,4 @@
-# [Taxi Service](https://desolate-fortress-31778.herokuapp.com/login)
+# [Taxi Service](https://dibrov-taxi-app.herokuapp.com/login)
 
 This is web application with backend and frontend parts that presents 
 the work of a taxi service. 
@@ -36,4 +36,4 @@ Project based on 3-layer architecture:
 # Heroku
 
 This project is also deployed to Heroku. You can click it via this link:
-[Heroku Link](https://desolate-fortress-31778.herokuapp.com/login)
+[Heroku Link](https://dibrov-taxi-app.herokuapp.com/login)
