@@ -35,5 +35,5 @@ Project based on 3-layer architecture:
 
 # Heroku
 
-This project is also deployed to Heroku. You can click it via this link:
+This project is also deployed to Heroku. AWS RDS MySQL instance is used as a DB. You can click it via this link:
 [Heroku Link](https://dibrov-taxi-app.herokuapp.com/login)
